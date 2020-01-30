@@ -11874,11 +11874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NaufalAj\\Documents\\Visual Studio 2017\\Projects\\ASPNETLOGINIDENTITY\\ASPNETLOGINIDENTITY\\ASPNETLOGINIDENTITY.csproj",
+      "projectUniqueName": "C:\\Users\\NaufalAj\\Documents\\Git\\ASPNETLOGINIDENTITY\\ASPNETLOGINIDENTITY\\ASPNETLOGINIDENTITY.csproj",
       "projectName": "ASPNETLOGINIDENTITY",
-      "projectPath": "C:\\Users\\NaufalAj\\Documents\\Visual Studio 2017\\Projects\\ASPNETLOGINIDENTITY\\ASPNETLOGINIDENTITY\\ASPNETLOGINIDENTITY.csproj",
+      "projectPath": "C:\\Users\\NaufalAj\\Documents\\Git\\ASPNETLOGINIDENTITY\\ASPNETLOGINIDENTITY\\ASPNETLOGINIDENTITY.csproj",
       "packagesPath": "C:\\Users\\NaufalAj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NaufalAj\\Documents\\Visual Studio 2017\\Projects\\ASPNETLOGINIDENTITY\\ASPNETLOGINIDENTITY\\obj\\",
+      "outputPath": "C:\\Users\\NaufalAj\\Documents\\Git\\ASPNETLOGINIDENTITY\\ASPNETLOGINIDENTITY\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
